@@ -1,7 +1,7 @@
 
  
 # Project for IoT
-![enter image description here](https://i.ibb.co/TPb5Kqq/IMG-20210119-164759.jpg)
+![](https://i.ibb.co/TPb5Kqq/IMG-20210119-164759.jpg)
 
 This project implement a communication method publish/subscribe using [**RabbitMQ Broker**](https://www.rabbitmq.com/).
 This implement adds functions as, write of the values receipt to a database in order to represent and to send these same values to a remote server for further procedure.
