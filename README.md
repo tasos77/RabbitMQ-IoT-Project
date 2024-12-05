@@ -255,3 +255,13 @@ https://docs.influxdata.com/influxdb/v1.8/query_language/explore-data/
 
 https://github.com/influxdata/influxdb/issues/4209
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://isocpp.org" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
+    alt="c++" width="40" height="40" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+    </p>
