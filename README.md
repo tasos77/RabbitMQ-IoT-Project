@@ -3,7 +3,7 @@
 # Project for IoT
 ![ ](https://i.ibb.co/5snVYxx/IMG-20210119-164759.jpg)
 
-This project implements a communication method publish/subscribe using [**RabbitMQ Broker**](https://www.rabbitmq.com/).
+This project implements a publish/subscribe communication method using [**RabbitMQ Broker**](https://www.rabbitmq.com/).
 This implement adds functions as, write of the values receipt to a database in order to represent and to send these same values to a remote server for further procedure.
 ## Architecture
 This architecture is divided into 5 big parts :
